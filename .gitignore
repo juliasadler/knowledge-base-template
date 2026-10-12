@@ -1,0 +1,33 @@
+# 文本 / Markdown 知识库通用 .gitignore
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# 临时与备份
+*.tmp
+*.bak
+*.orig
+
+# 大体积媒体（语料只存文本，转写文本入库即可）
+*.mp4
+*.mov
+*.avi
+*.zip
+*.rar
+*.7z
+
+# 私有草稿（不入库）
+drafts/
+private/
+
+# 检索缓存
+.search_cache/
