@@ -66,6 +66,12 @@
 
 👉 先读 `SETUP.md`，跟着走完 6 步。
 
+## 💬 交流群
+
+扫码加入 QQ 交流群（群号：1127039288），一起聊知识库搭建、AI 玩法：
+
+![QQ 交流群](assets/qq-group.png)
+
 ## 👤 模板作者
 
 **liyu**（GitHub: [@juliasadler](https://github.com/juliasadler)）
