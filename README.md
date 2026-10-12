@@ -1,7 +1,11 @@
 # 主题知识库框架模板
 
-从真实知识库提炼的通用脚手架：**只含框架和规则约束文档，零原文内容**。
-Fork 本模板，按 `SETUP.md` 十分钟即可搭出一个属于你自己的新主题知识库。
+![GitHub stars](https://img.shields.io/github/stars/juliasadler/knowledge-base-template?style=social)
+![License](https://img.shields.io/github/license/juliasadler/knowledge-base-template)
+![Last commit](https://img.shields.io/github/last-commit/juliasadler/knowledge-base-template)
+
+> 从真实知识库提炼的通用脚手架：**只含框架和规则约束文档，零原文内容**。
+> Fork 后按 `SETUP.md` 十分钟搭出属于你自己的新主题知识库。
 
 > 占位符说明：`{{THEME_NAME}}` = 你的主题名，`{{SOURCE}}` = 来源名。
 > 全库搜索这两个占位符并替换，详见 `SETUP.md`。
@@ -61,3 +65,13 @@ Fork 本模板，按 `SETUP.md` 十分钟即可搭出一个属于你自己的新
 ## 快速开始
 
 👉 先读 `SETUP.md`，跟着走完 6 步。
+
+## 👤 模板作者
+
+**liyu**（GitHub: [@juliasadler](https://github.com/juliasadler)）
+本模板从两个长期维护的真实主题知识库（四层架构＋入库 SOP＋三层索引）提炼，规则文档全部为通用框架版。
+
+## 📄 许可证
+
+本仓库模板内容采用 [MIT License](LICENSE)。
+用本模板搭建你自己的知识库后，新仓库的许可证由你自己决定。
